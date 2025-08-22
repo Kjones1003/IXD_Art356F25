@@ -16,3 +16,6 @@
 
  ![ScreenShot of one my favorite game](https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcSfs9Db54vi7IrWFbPhOunrrYDmztV-0N-p5UB4Wr8ViZmjmW2V)
  
+### Journal Entries
+
+[Link to Journal](journal/8262025entry.md)
